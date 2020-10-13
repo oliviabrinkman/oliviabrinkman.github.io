@@ -1,25 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/oliviabrinkman/oliviabrinkman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Link to RIT's [SWEN-101](http://www.se.rit.edu/~swen-101/00/index.html) class
 ### About Me
 
 ```About Me
-Syntax highlighted code block
 
 I am from Patchogue, Long Island. From years K-12, I went to Patchogue-Medford School District and graduated from the high school in June, 2020. Hobbies I have include playing the piano and saxophone, spending time with family and friends and playing videogames. I am the youngest child in my family, having 2 older siblings - a 22 year old brother and a 20 year old sister.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
