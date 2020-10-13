@@ -5,4 +5,10 @@ I am from Patchogue, Long Island. From years K-12, I went to Patchogue-Medford S
 
 ### My favorite food is Pizza! (has to be from NYC or Long Island =P)
  ![Image](https://cdn.shopify.com/s/files/1/0205/9582/articles/NY-Pizza-Pepperoni.jpg?v=1587126497)
+ 
+### SWEN-101
+I want to learn...
+1. Better collaberation between peers
+2. How to improve the quality of my work
+3. What it is like to work in the SE industry
 
